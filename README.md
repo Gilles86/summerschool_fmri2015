@@ -28,6 +28,7 @@ You won't be able to change the code, but it can still be instructive:
 * [Part 4: Extract fMRI signal from ROI](http://nbviewer.ipython.org/github/Gilles86/summerschool_fmri2015/blob/master/notebooks/part4_extract_signal.ipynb) ([answers](http://nbviewer.ipython.org/github/Gilles86/summerschool_fmri2015/blob/master/notebooks/part4_extract_signal_answers.ipynb))
 * [ Part 5: fit GLM and use as input to HDDM](http://nbviewer.ipython.org/github/Gilles86/summerschool_fmri2015/blob/master/notebooks/part5_joint_modelling.ipynb) ([answers](http://nbviewer.ipython.org/github/Gilles86/summerschool_fmri2015/blob/master/notebooks/part5_joint_modelling_answers.ipynb))
 
+To do the practicals yourself you will need the data of [Leendert van Maanens 2011 Journal of Neuroscience-paper](http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=22131410). We are working on publishing this data for free, right now you can email me at [gilles.de.hollander@gmail.com](mailto:gilles.de.hollander@gmail.com) for the data.
 
 Cheers,
 
