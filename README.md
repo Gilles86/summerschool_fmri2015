@@ -9,7 +9,7 @@ research group.
 your own computer. 
  * To install Python, IPython, IPython notebook and all the
 necessary libraries, have a look at [Anaconda](http://continuum.io/downloads).
- * You can download my slides [here](slides.pdf).
+ * You can download my slides [here](https://raw.githubusercontent.com/Gilles86/summerschool_fmri2015/master/README.md).
 
 ![Python flying](http://bender.astro.sunysb.edu/classes/python-science/python.png)
 
